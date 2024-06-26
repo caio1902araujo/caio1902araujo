@@ -7,6 +7,7 @@ Minha formação acadêmica e prática profissional me proporcionaram um sólido
 [<img alt="Gmail" src="https://img.shields.io/badge/caio2002araujo@gmail.com-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:caio2002araujo@gmail.com)
 [<img alt="Behance" src="https://img.shields.io/badge/caioaraujo16-0054F7?style=for-the-badge&logo=behance&logoColor=white">](https://www.behance.net/caioaraujo16)
 <br/>
+
 ## 💻 Principais linguagens
 <div>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,8 +15,6 @@ Minha formação acadêmica e prática profissional me proporcionaram um sólido
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
-
-<br/>
 
 ## 🧰 Principais ferramentas
 <div>
